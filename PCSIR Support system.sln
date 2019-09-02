@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCSIR Support system", "PCSIR Support system\PCSIR Support system.csproj", "{DD21B2E3-12A6-4E40-937A-98F76EAF8E0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD21B2E3-12A6-4E40-937A-98F76EAF8E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD21B2E3-12A6-4E40-937A-98F76EAF8E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD21B2E3-12A6-4E40-937A-98F76EAF8E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD21B2E3-12A6-4E40-937A-98F76EAF8E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D8A4127-A939-4D66-8D6D-D0D23F9C7339}
+	EndGlobalSection
+EndGlobal
